@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const HeroWrapper = styled.form`
   height: 360px;
   width: 100%;
-  background-image: url('https://cdn.pixabay.com/photo/2018/08/10/15/45/woman-3597101_1280.jpg');
+  background-image: url('https://img.freepik.com/vetores-premium/fundo-de-tecnologia-com-dados-digitais-de-alta-tecnologia_29971-1153.jpg');
   background-size: cover;
   position: relative;
   display: flex;

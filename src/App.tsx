@@ -2,10 +2,10 @@ import { ThemeProvider } from 'styled-components'
 import Hero from './components/Hero'
 import ListaVagas from './containers/ListaVagas'
 
-import themeOrigin from './containers/Tema/linght'
+import themeOrigin from './containers/Tema/origin'
 
 import Cabecalho from './components/Cabecalho'
-import EstiloGlobal, { Container } from './styles'
+import EstiloGlobal, { Container } from './style'
 
 function App() {
   return (
